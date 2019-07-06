@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050251451721",
+    "firebase_url": "https://sem5-app-eee.firebaseio.com",
+    "project_id": "sem5-app-eee",
+    "storage_bucket": "sem5-app-eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050251451721:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050251451721-3eg21if0k67ihe5ins3dkjtmqr2qb05d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "0205bb7e46e02e53df5ca9b25f0c50ba9bd17ad6"
+          }
+        },
+        {
+          "client_id": "1050251451721-3r2ieh95r996atcf0n52ahhj218od7eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBji83ez2rGBE-Fk5pjfkH4RUXcJtL_BiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050251451721-3r2ieh95r996atcf0n52ahhj218od7eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
